@@ -1,0 +1,37 @@
+.widget-qr-generator {
+  max-width: 600px;
+  margin: 50px auto 0;
+
+  .widget-header {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .widget-body {
+    .form-group {
+      margin-top: 25px;
+
+      &--btn {
+        text-align: center;
+      }
+    }
+
+    .desc {
+      margin: 25px 0;
+    }
+
+    .btn-result {
+      text-align: center;
+    }
+
+    .qr-result {
+      margin-top: 25px;
+      display: flex;
+      justify-content: center;
+
+      img {
+      }
+    }
+  }
+}
+

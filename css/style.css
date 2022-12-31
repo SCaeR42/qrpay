@@ -1,0 +1,11 @@
+/* line 1, style.scss */.widget-qr-generator{max-width:600px;margin:50px auto 0}/* line 5, style.scss */.widget-qr-generator .widget-header{text-align:center;margin-bottom:50px}/* line 11, style.scss */.widget-qr-generator .widget-body .form-group{margin-top:25px}/* line 14, style.scss */.widget-qr-generator .widget-body .form-group--btn{text-align:center}/* line 19, style.scss */.widget-qr-generator .widget-body .desc{margin:25px 0}/* line 23, style.scss */.widget-qr-generator .widget-body .btn-result{text-align:center}/* line 27, style.scss */.widget-qr-generator .widget-body .qr-result{margin-top:25px;display:flex;justify-content:center}
+
+/*# sourceMappingURL=undefined.map */{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss"
+	],
+	"names": [],
+	"mappings": "wBAAA,AAAA,oBAAoB,AAAC,CACnB,SAAS,CAAE,KAAK,CAChB,MAAM,CAAE,WAAW,CAiCpB,wBAnCD,AAIE,oBAJkB,CAIlB,cAAc,AAAC,CACb,UAAU,CAAE,MAAM,CAClB,aAAa,CAAE,IAAI,CACpB,yBAPH,AAUI,oBAVgB,CASlB,YAAY,CACV,WAAW,AAAC,CACV,UAAU,CAAE,IAAI,CAKjB,yBAhBL,AAaM,oBAbc,CASlB,YAAY,CAIP,gBAAK,AAAC,CACL,UAAU,CAAE,MAAM,CACnB,yBAfP,AAkBI,oBAlBgB,CASlB,YAAY,CASV,KAAK,AAAC,CACJ,MAAM,CAAE,MAAM,CACf,yBApBL,AAsBI,oBAtBgB,CASlB,YAAY,CAaV,WAAW,AAAC,CACV,UAAU,CAAE,MAAM,CACnB,yBAxBL,AA0BI,oBA1BgB,CASlB,YAAY,CAiBV,UAAU,AAAC,CACT,UAAU,CAAE,IAAI,CAChB,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,MAAM,CAIxB"
+}
